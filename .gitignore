@@ -1,0 +1,5 @@
+# Node
+/node_modules
+/mf-shell/node_modules
+/mf-payment/node_modules
+/mf-shopping/node_modules
